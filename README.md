@@ -13,8 +13,12 @@
 
 - ⚡ About me **I consider myself a fun, sociable and responsible person.**
 
+### 🏅 Some proyects
+ - 📱 A simple eccomerce for coderhouse [Phone-eccomerce](https://github.com/Jcavenaghi/Eccomerce-proyect) and the deployment is in https://eccomerproyectchasco.netlify.app/
+ - 💻 HTML and CSS about my city for coderhouse [Chascoweb](https://github.com/Jcavenaghi/Chascomus-web) and the deployment is in https://chascoweb.netlify.app/
+
 ### 💻 Projects in which I collaborate:
- - 1️⃣ Project for the university of a **vaccination system** [VacunAssist](https://github.com/ignacioedlp/VacunaAssistApp)
+ - 1️⃣ Project for the university of a **vaccination system with js an python** [VacunAssist](https://github.com/ignacioedlp/VacunaAssistApp)
 
 ### 🌞 Connect with me:
 
