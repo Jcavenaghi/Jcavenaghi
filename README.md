@@ -13,6 +13,9 @@
 
 - ⚡ About me **I consider myself a fun, sociable and responsible person.**
 
+### 💻 Projects in which I collaborate:
+ - 1️⃣ Project for the university of a **vaccination system** [VacunAssist](https://github.com/ignacioedlp/VacunaAssistApp)
+
 ### 🌞 Connect with me:
 
 [![Linkedin: Jcavenaghi](https://img.shields.io/badge/-Jcavenaghi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-cavenaghi/)](https://www.linkedin.com/in/joaquin-cavenaghi/)
