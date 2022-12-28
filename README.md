@@ -1,8 +1,6 @@
 <h1 align="center">Hello everyone!, I'm Joaquin Cavenaghi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">A passionate frontend developer from Argentina. On the way to full stack development</h3>
 
-[![Linkedin: Jcavenaghi](https://img.shields.io/badge/-Jcavenaghi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-cavenaghi/)](https://www.linkedin.com/in/joaquin-cavenaghi/)
-[![GitHub Jcavenaghi](https://img.shields.io/github/followers/Jcavenaghi?label=follow&style=social)](https://github.com/Jcavenaghi)
 ![Banner-Cavenaghi2](https://user-images.githubusercontent.com/81309482/209818448-60d2218a-d14b-412d-ab1b-5bd5baaeffed.png)
 
 - 🔭 I’m currently working on [bank shift simulator](https://github.com/Jcavenaghi/app-banco)
@@ -15,9 +13,10 @@
 
 - ⚡ About me **I consider myself a fun, sociable and responsible person.**
 
-<h3 align="left">Connect with me 🟢</h3> 
+### 🌞 Connect with me:
 
 [![Linkedin: Jcavenaghi](https://img.shields.io/badge/-Jcavenaghi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-cavenaghi/)](https://www.linkedin.com/in/joaquin-cavenaghi/)
+[![GitHub Jcavenaghi](https://img.shields.io/github/followers/Jcavenaghi?label=follow&style=social)](https://github.com/Jcavenaghi)
 
 ### 🔨 Languages and Tools:
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="42"/> </a>
