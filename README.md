@@ -3,11 +3,11 @@
 
 ![Banner-Cavenaghi2](https://user-images.githubusercontent.com/81309482/209818448-60d2218a-d14b-412d-ab1b-5bd5baaeffed.png)
 
-- 🔭 I’m currently working on [bank shift simulator](https://github.com/Jcavenaghi/app-banco)
+- 🔭 I’m currently working on [backend-proyect](https://github.com/Jcavenaghi/app-banco)
 
 - 🌱 I’m currently learning **React, Ruby on Rails**
 
-- 💬 Ask me about **Javascript, VueJS, Python**
+- 💬 Ask me about **Javascript, Java, Ruby, ReactJS, Python**
 
 - 📫 How to reach me **joaquincavenaghi@gmail.com**
 
@@ -16,7 +16,7 @@
 ### 🏅 Some proyects
  - 📱 A simple eccomerce for coderhouse [Phone-eccomerce](https://github.com/Jcavenaghi/Eccomerce-proyect) and the deployment is in https://eccomerproyectchasco.netlify.app/
  - 💻 HTML and CSS about my city for coderhouse [Chascoweb](https://github.com/Jcavenaghi/Chascomus-web) and the deployment is in https://chascoweb.netlify.app/
-
+ - 🏦 Proyect for the univerity of a **Shift system simulation** [bank shift simulator](https://github.com/Jcavenaghi/app-banco)
 ### 💻 Projects in which I collaborate:
  - 1️⃣ Project for the university of a **vaccination system with js an python** [VacunAssist](https://github.com/ignacioedlp/VacunaAssistApp)
 
