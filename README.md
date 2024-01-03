@@ -49,11 +49,17 @@
 ## My GitHub stats 💟
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcavenaghi&show_icons=true&locale=en&layout=compact" alt="jcavenaghi" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jcavenaghi&show_icons=true&theme=onedark)
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jcavenaghi&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jcavenaghi&show_icons=true&theme=onedark&layout=compact&langs_count=8&card_width=320" />
+</a>
 ---
 
 
