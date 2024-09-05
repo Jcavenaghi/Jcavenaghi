@@ -7,7 +7,7 @@
 
 - 🔭 My last project was [Pets list with Angular and NET core 6](https://github.com/Jcavenaghi/NET-Angular-app)
 
-- 🌱 I’m currently learning **Angular, C#, Entity Framework, NET core**
+- 🌱 I’m currently learning **Angular, C#, NET Framework, NextJs**
 
 - 👨‍💻 Some of my projects are available at [https://jcavenaghiporfolio.vercel.app/](https://jcavenaghiporfolio.vercel.app/)
 
